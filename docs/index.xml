@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog DevOps</title>
-    <link>/</link>
+    <link>https://blogdevops.com/</link>
     <description>Recent content on Blog DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blogdevops.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TurnOff.us</title>
-      <link>/posts/2020/03/turnoff.us/</link>
+      <link>https://blogdevops.com/posts/2020/03/turnoff.us/</link>
       <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/03/turnoff.us/</guid>
+      <guid>https://blogdevops.com/posts/2020/03/turnoff.us/</guid>
       <description>This week I happened to meet a minimalist blog about everyday life and technology, I really liked it and I want to share a post of it here :)
 See turnoff.us</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>/posts/2020/03/hello-world/</link>
+      <link>https://blogdevops.com/posts/2020/03/hello-world/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/03/hello-world/</guid>
+      <guid>https://blogdevops.com/posts/2020/03/hello-world/</guid>
       <description>Introduction Don&amp;rsquo;t Repeat Yourself DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&amp;rsquo;re figuring that out, accept that you&amp;rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&amp;rsquo;s okay to delay splitting up a template.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://blogdevops.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://blogdevops.com/about/</guid>
       <description>Hey, this is a minimalist blog about devops and things around you, maintained by Renato Ruis. I hope you like it, have fun and collaborate :) Ah! i&amp;rsquo;m brazilian and i&amp;rsquo;m practicing my english, please, if there are mistakes help me to improve.</description>
     </item>
     
