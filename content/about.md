@@ -1,16 +1,11 @@
----
-date: "2014-04-09"
-title: "About"
----
++++
+title = "About"
+date = "2020-29-09"
+aliases = ["about-us","about-devops","contact"]
+[ author ]
+  name = "Renato Ruis"
++++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Hey, this is a minimalist blog about devops and things around you, maintained by [Renato Ruis](https://github.com/renatoruis).
+I hope you like it, have fun and collaborate :)
+Ah! i'm brazilian and i'm practicing my english, please, if there are mistakes ***help me to improve***.
