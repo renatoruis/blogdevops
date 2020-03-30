@@ -1,4 +1,5 @@
 #!/bin/bash
+git pull origin master
 rm -rf docs/
 hugo -D
 git add .
