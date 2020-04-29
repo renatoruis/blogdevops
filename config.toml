@@ -18,7 +18,7 @@ bgimg = "https://st2.depositphotos.com/1152339/10274/i/950/depositphotos_1027455
     
 [outputs]
   home = ["HTML", "JSON"]
-  page = ["HTML", "JSON"]
+  page = ["HTML"]
 
 ######
 # Theme documentation

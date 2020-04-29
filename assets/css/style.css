@@ -1,9 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
-@import 'search';
 body {
     /* font-family: 'LatoLatinWeb', Avenir, HelveticaNeue-Light, "Helvetica Neue Light",
                  "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Bhaina 2';
     color: #999;
     font-size: 1.1em;
     background-color: #ecedef;
@@ -35,13 +33,13 @@ body {
 }
 
 p {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Bhaina 2';
     font-weight: 100;
     margin: 1.5em 0;
 }
 b,
 strong {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Bhaina 2';
     font-weight: 400;
 }
 .nav-bar {
@@ -194,7 +192,7 @@ strong {
     margin-top: 5em;
 }
 .card {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Bhaina 2';
     font-weight: 100;
     display: block;
     margin: 2.2rem 0;
@@ -207,7 +205,7 @@ strong {
     box-shadow: 0 0.5rem 1rem 0 rgba(0,0,0,0.19), 0 0.3rem 0.3rem -0.1rem rgba(0,0,0,0.23);
 }
 .home-card {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Bhaina 2';
     font-weight: 100;
     padding: 0.8em;
     font-size: 2em;
@@ -281,7 +279,7 @@ strong {
     max-width: 47rem;
 }
 .pagination-text {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Bhaina 2';
     font-weight: 100;
     text-decoration: none !important;
 }
@@ -348,7 +346,7 @@ strong {
     clear: both;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Bhaina 2';
     font-weight: 400;
     color: #666666;
     margin: 1.5em 0 -0.5em 0;
@@ -380,7 +378,7 @@ li > p {
     margin: 0;
 }
 code {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Bhaina 2';
     font-weight: 100;
     padding: .2em .5em;
     line-height: 1.5;
@@ -402,7 +400,7 @@ hr {
     clear: both;
 }
 a {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Bhaina 2';
     font-weight: 100;
     color: #141823;
 }
@@ -418,7 +416,7 @@ th {
     border: thin solid #D1D1D1
 }
 th {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Baloo Bhaina 2';
     font-weight: normal;
 }
 tr:nth-child(even) td {
@@ -480,16 +478,16 @@ footer {
         font-size: 1.27em;
     }
     .card-text {
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Baloo Bhaina 2';
         font-size: 0.95em;
         margin: 1.2em 0;
     }
     .card-subtext {
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Baloo Bhaina 2';
         font-size: 0.7em;
     }
     .content {
-        font-family: 'Roboto', sans-serif;
+        font-family: 'Baloo Bhaina 2';
         border-radius: 0.2rem;
     }
     .post {

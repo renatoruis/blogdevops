@@ -1,23 +1,17 @@
 ---
 title: "About"
 description: "About"
-dropCap: true
+dropCap: false
 displayInMenu: true
 displayInList: false
 draft: false
-resources:
-- name: featuredImage
-  src: "aws.jpg"
+notbuttonnav: true
 ---
+{{< smallimg src="avatar.png" alt="A big beautiful smile" smartfloat="left" width="200px" clear="true" >}}
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+I am passionate about what I do.
 
-It makes use of a variety of open source projects including:
+{{< raw >}}<i class="fa fa-phone"></i>{{< /raw >}} +55 11 99463-1377  
+{{< raw >}}<i class="fa fa-linkedin"></i>{{< /raw >}} [Renato Ruis](https://www.linkedin.com/in/renatoruis/)  
+{{< raw >}}<i class="fa fa-envelope"></i>{{< /raw >}} renatoruis@gmail.com 
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).

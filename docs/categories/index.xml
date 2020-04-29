@@ -5,16 +5,23 @@
     <description>Recent content in Categories on BlogDevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Dec 2018 10:35:35 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Features</title>
-      <link>/categories/features/</link>
-      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      <title>Devops</title>
+      <link>/categories/devops/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/features/</guid>
+      <guid>/categories/devops/</guid>
+      <description></description>
+    </item><item>
+      <title>Life</title>
+      <link>/categories/life/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/life/</guid>
       <description></description>
     </item>
   </channel>

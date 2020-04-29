@@ -5,31 +5,17 @@
     <description>Recent content in Posts on BlogDevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Dec 2018 10:35:35 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>titulo 1</title>
-      <link>/posts/2020/aws/</link>
-      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      <title>Hello World</title>
+      <link>/posts/2020/april/hello-world/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/aws/</guid>
-      <description>titulo 1</description>
-    </item><item>
-      <title>titulo 2</title>
-      <link>/posts/2020/cloud/</link>
-      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
-      
-      <guid>/posts/2020/cloud/</guid>
-      <description>titulo 2</description>
-    </item><item>
-      <title>titulo 3</title>
-      <link>/posts/2020/devops/</link>
-      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
-      
-      <guid>/posts/2020/devops/</guid>
-      <description>titulo 3</description>
+      <guid>/posts/2020/april/hello-world/</guid>
+      <description>My first post here</description>
     </item>
   </channel>
 </rss>
