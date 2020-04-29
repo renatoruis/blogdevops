@@ -1,37 +1,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Posts on Blog DevOps</title>
-        <link>https://blogdevops.com/posts/</link>
-        <description>Recent content in Posts on Blog DevOps</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://blogdevops.com/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>TurnOff.us</title>
-            <link>https://blogdevops.com/posts/2020/03/turnoff.us/</link>
-            <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://blogdevops.com/posts/2020/03/turnoff.us/</guid>
-            <description>This week I happened to meet a minimalist blog about everyday life and technology, I really liked it and I want to share a post of it here :)
-See turnoff.us</description>
-            <content type="html"><![CDATA[<p>This week I happened to meet a minimalist blog about everyday life and technology, I really liked it and I want to share a post of it here :)</p>
-<p><img src="http://turnoff.us/image/en/devops-2.png" alt="we are hiring devops"></p>
-<p>See <a href="http://turnoff.us/">turnoff.us</a></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Hello World</title>
-            <link>https://blogdevops.com/posts/2020/03/hello-world/</link>
-            <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://blogdevops.com/posts/2020/03/hello-world/</guid>
-            <description>I created this blog to have fun, share and learn, I hope you like it, follow it and have fun</description>
-            <content type="html"><![CDATA[<p>I created this blog to have fun, share and learn, I hope you like it, follow it and have fun</p>
-]]></content>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Posts - BlogDevOps</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on BlogDevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Dec 2018 10:35:35 -0500</lastBuildDate>
+    
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>titulo 1</title>
+      <link>/posts/2020/aws/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>/posts/2020/aws/</guid>
+      <description>titulo 1</description>
+    </item><item>
+      <title>titulo 2</title>
+      <link>/posts/2020/cloud/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>/posts/2020/cloud/</guid>
+      <description>titulo 2</description>
+    </item><item>
+      <title>titulo 3</title>
+      <link>/posts/2020/devops/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>/posts/2020/devops/</guid>
+      <description>titulo 3</description>
+    </item>
+  </channel>
 </rss>

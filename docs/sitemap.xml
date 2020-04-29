@@ -3,35 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blogdevops.com/posts/2020/03/turnoff.us/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+    <loc>/tags/abacaxi/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blogdevops.com/posts/2020/03/hello-world/</loc>
-    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
+    <loc>/tags/banana/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blogdevops.com/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blogdevops.com/posts/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blogdevops.com/about/</loc>
+    <loc>/categories/features/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blogdevops.com/categories/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blogdevops.com/tags/</loc>
+    <loc>/tags/tag-1/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2020/aws/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2020/cloud/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2020/devops/</loc>
+    <lastmod>2018-12-19T10:35:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
   </url>
   
 </urlset>

@@ -1,14 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blog DevOps</title>
-    <link>https://blogdevops.com/tags/</link>
-    <description>Recent content in Tags on Blog DevOps</description>
+    <title>Tags - BlogDevOps</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on BlogDevOps</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Dec 2018 10:35:35 -0500</lastBuildDate>
     
-	<atom:link href="https://blogdevops.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+      <title>abacaxi</title>
+      <link>/tags/abacaxi/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>/tags/abacaxi/</guid>
+      <description></description>
+    </item><item>
+      <title>banana</title>
+      <link>/tags/banana/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>/tags/banana/</guid>
+      <description></description>
+    </item><item>
+      <title>tag-1</title>
+      <link>/tags/tag-1/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>/tags/tag-1/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
