@@ -4,6 +4,12 @@
   * and place all your CSS inside it.
   * You should not modify this file.
   */
+  blockquote {
+    border-left: .3em solid #c27bd5;
+    margin: 1.5em .8em;
+    padding: .5em;
+    font-style: italic;
+}
 
   .bg-light {
     background-color: #f8f9fa!important;
@@ -20,4 +26,14 @@
 
 .navbar {
   width: 100%;
+}
+
+.article {
+  margin-bottom: 12em;
+}
+.color1 {
+  color: #c27bd5;
+}
+.color2 {
+  color: #3e81e7;
 }

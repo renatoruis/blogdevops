@@ -112,10 +112,13 @@ function renderResults(results) {
 
 }
 
+
 // Let's get started
 initLunr();
 
 $(document).ready(function() {
 $("#searchValue").focus()
 initUI();
+
+
 });

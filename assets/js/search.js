@@ -118,4 +118,6 @@ initLunr();
 $(document).ready(function() {
 $("#searchValue").focus()
 initUI();
+
+
 });

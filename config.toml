@@ -6,7 +6,7 @@ canonifyurls = true
 paginate = 3
 publishDir   = "docs"
 
-#googleAnalytics = "Your google analytics tracking ID - optional"
+googleAnalytics = "UA-162054822-1"
 #disqusShortname = "Your shortname for Disqus - optional"
 
 [params]

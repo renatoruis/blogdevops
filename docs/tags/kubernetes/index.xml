@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubernetes - BlogDevOps</title>
+    <link>/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on BlogDevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CKA Consegui \o/ com dicas importantes</title>
+      <link>/posts/2020/april/minha-cka/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/april/minha-cka/</guid>
+      <description>Como eu consegui minha certificação e algumas dicas</description>
+    </item>
+  </channel>
+</rss>

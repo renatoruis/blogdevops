@@ -1,0 +1,14 @@
+{
+    "name": "Blog DevOps",
+    "short_name": "Blog DevOps",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#f8f9f5",
+    "background_color": "#f8f9f5",
+    "display": "standalone"
+}
