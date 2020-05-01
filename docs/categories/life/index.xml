@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life - BlogDevOps</title>
-    <link>/categories/life/</link>
+    <link>https://blogdevops.com/categories/life/</link>
     <description>Recent content in Life on BlogDevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/categories/life/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blogdevops.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>/posts/2020/april/hello-world/</link>
+      <link>https://blogdevops.com/posts/2020/april/hello-world/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/april/hello-world/</guid>
+      <guid>https://blogdevops.com/posts/2020/april/hello-world/</guid>
       <description>My first post here</description>
     </item>
   </channel>

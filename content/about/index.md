@@ -15,3 +15,4 @@ I am passionate about what I do.
 {{< raw >}}<i class="fa fa-linkedin"></i>{{< /raw >}} [Renato Ruis](https://www.linkedin.com/in/renatoruis/)  
 {{< raw >}}<i class="fa fa-envelope"></i>{{< /raw >}} renatoruis@gmail.com 
 
+{{ .Site.BaseURL }}
