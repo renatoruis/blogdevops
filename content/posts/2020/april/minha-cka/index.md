@@ -1,5 +1,5 @@
 ---
-title: "CKA Consegui \\o/ com dicas importantes"
+title: "CKA Consegui com dicas importantes"
 date: 2020-04-28
 description: "Como eu consegui minha certificação e algumas dicas"
 categories: ["Kubernetes", "Devops"]
