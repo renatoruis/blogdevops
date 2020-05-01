@@ -15,7 +15,7 @@ resources:
 
 ## Hey \o
 
-Quero compartilhar um pouco de como eu consegui essa certificação que é muito requisitada/cobiçada  
+Quero compartilhar um pouco de como consegui essa certificação que é muito requisitada/cobiçada  
 
  Vou ser simples e objetivo direto ao ponto, pois sei que se você está lendo isso, provavelmente, já leu muita coisa sobre CKA na internet.
 
@@ -38,7 +38,7 @@ __{{< color color2 >}} KUBECTL {{< /color >}}__ Se não conhece ainda vai conhec
   > Dica2: No ambiente do exame o autocomplete do kubectl já vem habilitado 
 Sim, para mim caiu algumas questões que requeria o jsonpath dá uma olhada [aqui](https://kubernetes.io/docs/reference/kubectl/jsonpath/) sobre como usar ele corretamente com kubectl
 
-__{{< color color2 >}} PROCTORED {{< /color >}}__ Sim o exame é monitorado o tempo todo e não é brincadeira, você tem que seguir exatamente tudo o que exta nos requisitos do exame, para você ter uma idéia o proctor pediu pra eu filmar além do quarto todo (dar uma volta com o note no quarto), pediu para filmar até embaixo da mesa, então, esteja preparado para esse momento um tanto constrangedor.
+__{{< color color2 >}} PROCTORED {{< /color >}}__ Sim o exame é monitorado o tempo todo e não é brincadeira, você tem que seguir exatamente tudo o que esta nos requisitos do exame, para você ter uma idéia o proctor pediu pra eu filmar além do quarto todo (dar uma volta com o note no quarto), pediu para filmar até embaixo da mesa, então, esteja preparado para esse momento um tanto constrangedor.
 
 ## Ferramentas de estudo
 ---
